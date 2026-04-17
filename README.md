@@ -44,16 +44,7 @@ ollama run llama3
 
 ---
 
-### 3. Clone the Repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/ai-study-chatbot.git
-cd ai-study-chatbot
-```
-
----
-
-### 4. Install Dependencies
+### 3. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -61,7 +52,7 @@ pip install -r requirements.txt
 
 ---
 
-### 5. Run the App
+### 4. Run the App
 
 ```bash
 streamlit run app.py
