@@ -101,7 +101,7 @@ The application follows a **client–server architecture** where the Streamlit f
    * The app sends an HTTP POST request to the local Ollama server:
 
      ```python id="req01"
-     POST http://localhost:11434/api/generate
+     POST http://localhost:/api/generate
      ```
 
    * Payload:
